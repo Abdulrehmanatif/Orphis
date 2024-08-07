@@ -30,7 +30,6 @@ public class BubbleSort {
     }
 }
 ```
-
 ### Explanation:
 
 1. **Main Method**:
