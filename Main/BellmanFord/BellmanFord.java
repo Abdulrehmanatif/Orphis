@@ -1,4 +1,4 @@
-package Main;
+package Main.BellmanFord;
 import java.util.Arrays;
 
 public class BellmanFord {
